@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget search:*)",
+      "Bash(curl -L \"https://github.com/gradle/gradle/raw/v8.5.0/gradle/wrapper/gradle-wrapper.jar\" -o \"c:/Users/Bruno/Documents/core-server-driven-ui/gradle/wrapper/gradle-wrapper.jar\")"
+    ]
+  }
+}
